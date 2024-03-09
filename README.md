@@ -4,12 +4,12 @@ This is a simple random password generator written in Python. It generates a 16-
 
 ## How to Use
 
-1. Clone this repository or download the `password_generator.py` file.
+1. Clone this repository or download the `main.py` file.
 2. Ensure you have Python installed on your system.
-3. Run the `password_generator.py` file using Python.
+3. Run the `main.py` file using Python.
 
 ```bash
-python password_generator.py
+python main.py
 ```
 
 4. The program will output a randomly generated password of 16 characters.
