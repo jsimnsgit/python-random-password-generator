@@ -20,10 +20,6 @@ python password_generator.py
 - Uses a combination of numbers, letters (both uppercase and lowercase), and symbols.
 - Simple and easy to use.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by the need for simple and secure password generation.
